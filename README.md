@@ -4,19 +4,19 @@ Pour ce faire, nous avons choisi d'utiliser trois datasets présentant des nivea
 
 J'ai couvert un large éventail de méthodes de classification, notamment :
 
-## Classifieurs par Distance:
+### Classifieurs par Distance:
 J'ai implémenté la classification basée sur des distances, en utilisant les métriques euclidienne et Mahalanobis. Ces méthodes sont essentielles pour la classification basée sur la proximité des points de données.
 
-## k Plus Proches Voisins (k-NN):
+### k Plus Proches Voisins (k-NN):
 J'ai développé l'algorithme des k plus proches voisins, une méthode populaire qui classe les données en fonction des voisins les plus proches dans l'espace des caractéristiques.
 
-## Fenêtre de Parzen:
+### Fenêtre de Parzen:
 J'ai créé une implémentation de la méthode de la fenêtre de Parzen, qui est une technique de classification basée sur l'estimation de densité.
 
-## Séparation Linéaire:
+### Séparation Linéaire:
 J'ai travaillé sur la séparation linéaire, une technique qui vise à trouver un hyperplan de séparation pour les données.
 
-## SVM avec Kernel:
+### SVM avec Kernel:
 J'ai mis en œuvre des Machines à Vecteurs de Support (SVM) avec différentes fonctions noyau, telles que le noyau linéaire, le noyau polynomial, et le noyau gaussien (RBF).
 
 Dans le cadre de ce projet, j'ai également effectué le paramétrage de ces méthodes en utilisant des techniques de validation croisée pour optimiser leurs performances.
