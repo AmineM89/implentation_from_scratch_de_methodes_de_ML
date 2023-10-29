@@ -21,6 +21,7 @@ J'ai mis en œuvre des Machines à Vecteurs de Support (SVM) avec différentes f
 
 Dans le cadre de ce projet, j'ai également effectué le paramétrage de ces méthodes en utilisant des techniques de validation croisée pour optimiser leurs performances.
 
+## Conclusion:
 Ce projet m'a permis de plonger profondément dans les mathématiques, les concepts et les détails de chaque méthode, tout en acquérant une compréhension pratique de leur fonctionnement. J'ai également eu l'occasion de comparer les performances de ces implémentations avec des outils d'apprentissage automatique standard.
 
 L'objectif de ce Jupyter Notebook est de documenter ces implémentations, d'expliquer le code et de fournir des exemples d'utilisation pour chaque méthode. J'espère que ce projet pourra servir de ressource pédagogique pour ceux qui cherchent à approfondir leur compréhension des méthodes d'apprentissage automatique.
